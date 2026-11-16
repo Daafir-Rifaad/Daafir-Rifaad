@@ -49,14 +49,6 @@ A C++ command-line application for managing books and users with persistent loca
 
 ## GitHub Activity
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daafir-Rifaad&show_icons=true&theme=tokyonight)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daafir-Rifaad&layout=compact&theme=tokyonight)
-
 ### Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Daafir-Rifaad&theme=tokyonight)
